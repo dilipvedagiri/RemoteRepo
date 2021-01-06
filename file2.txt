@@ -1,1 +1,3 @@
 First Line
+
+New line added in File2
